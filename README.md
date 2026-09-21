@@ -2,4 +2,4 @@
 J'apprends Git pas à pas.
 Deuxième ligne.
 Documentation du projet.
-Version principale du projet.
+Version de la branche test-conflit.
